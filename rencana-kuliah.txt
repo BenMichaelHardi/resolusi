@@ -3,4 +3,6 @@ Rencana Kuliah
   Lebih memperhatikan tugas, tidak malas dalam mengerjakannya
 - Tidak lalai dalam perkuliahan dan melakukan dengan serius
 - Selalu mengingat untuk absen dan tidak alpa
+  Mengingatkan dosen untuk membuka presensi
 - Fokus dalam pembelajaran dikelas
+*** Lebih mendalami php ***
